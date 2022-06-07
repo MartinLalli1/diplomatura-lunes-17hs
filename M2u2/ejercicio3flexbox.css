@@ -1,0 +1,36 @@
+.contenedor {
+    background-color: rgb(167, 163, 159);
+    border: 2px solid black;
+    display:flex;
+    justify-content: space-between;
+}
+
+#rojo {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: beige;
+}
+
+#azul {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: beige;
+}
+
+    #verde {
+        width: 200px;
+        height: 200px;
+        background: green;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: beige;
+    }

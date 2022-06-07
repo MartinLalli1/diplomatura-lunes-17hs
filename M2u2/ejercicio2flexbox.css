@@ -1,0 +1,38 @@
+.contenedor {
+    background-color: antiquewhite;
+    border: 2px solid black;
+    height: 400px;
+    display: inline-flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+#rojo {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: beige;
+}
+
+#azul {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: beige;
+}
+
+    #verde {
+        width: 200px;
+        height: 200px;
+        background: green;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: beige;
+    }
